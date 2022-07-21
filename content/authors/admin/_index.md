@@ -2,8 +2,7 @@
 title: Haojing Huang（黄浩靖）
 role: Professor of Artificial Intelligence
 avatar_filename: 证件照.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Natural Language Understanding.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
