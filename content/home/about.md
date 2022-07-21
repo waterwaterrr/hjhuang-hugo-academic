@@ -8,6 +8,5 @@ weight: 20
 title: Biography
 design:
   background:
-    image: 1.jpg
+    image: ""
 ---
-Hello! My name is Haojing Huang. I will graduate in 2023 fall.
