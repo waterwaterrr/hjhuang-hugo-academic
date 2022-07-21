@@ -1,7 +1,7 @@
 ---
 title: Haojing Huang（黄浩靖）
 role: Professor of Artificial Intelligence
-avatar_filename: 证件照.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Natural Language Understanding.
 interests:
   - Artificial Intelligence
